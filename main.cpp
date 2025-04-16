@@ -1,6 +1,11 @@
 #include <iostream>
 #include "BinaryTree.cpp"
 
+/*
+Árvore Binária
+
+*/
+
 using namespace std;
 
 int main(int argc, char const *argv[])
